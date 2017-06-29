@@ -1,0 +1,6 @@
+framework module Pods_RegistrationPageTask {
+  umbrella header "Pods-RegistrationPageTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
